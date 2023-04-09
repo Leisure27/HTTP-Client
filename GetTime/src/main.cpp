@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-const char *ssid = "leisure";
-const char *password = "shadow27";
+const char *ssid = "****";
+const char *password = "********";
 
 void get_time()
 {
